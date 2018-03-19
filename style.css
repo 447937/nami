@@ -1,0 +1,59 @@
+.zanr {
+        color: #a16;
+        background-color: rgba(94, 221, 115, 0.281);
+        text-align: center;
+        font-size: 64px;
+        font-style: italic;
+        font-family: fantasy;
+        }
+
+    .autor .name {
+        font-family: monospace;
+        text-transform: uppercase;
+        font-size: 16px;
+    }
+
+    aside blockquote {
+        text-align: right;
+        font-style: italic;
+    }
+
+    #zaver { 
+        padding: 2px;
+        font-style: oblique;
+        font-weight: 800;
+        background: url('https://wallpapersite.com/images/pages/pic_w/680.jpg');
+    }
+    
+    footer {
+        background-color: black;
+        color: whitesmoke;
+        text-align: center;
+        font-size: 32px;
+        text-decoration: underline overline;
+        padding: 2px;
+        margin: 365px
+    }
+
+    i { font-stretch:extra-condensed; }
+
+    #pytel {
+        background: rgb(190, 173, 15);
+        opacity: 0.8;
+        color: rgb(23, 64, 123);
+        line-height: 75%;
+    }
+
+    #pytel h2 { text-align: right; }
+
+    #soutez h2 { color: #a29}
+
+    #soutez { 
+        text-justify: newspaper; 
+        border: 5px dotted pink;
+    }
+
+    #soutez p i { 
+        color: rgb(23, 64, 123); 
+        float: right;
+    }
