@@ -2,37 +2,36 @@
     background: #F5F5F5;
     font-family: sans-serif;
     font-size-adjust: 0.55;
-  }
+ }
 
-  .content a { color: #F83400 }
+.content a { color: #F83400 }
 
-  .content h2 { 
+.content h2 { 
     font-family: 'Arial Narrow';
     font-weight: bolder;
     font-size: 200%;  
-  }
+}
   
-  .name { color: #F83400; }
+.name { color: #F83400; }
 
-  .zanr {
+.zanr {
     background: #272727;
     padding: 0.2cm;
-    
     font-family: sans-serif;
     text-transform: uppercase;
     font-weight: bolder;
     font-size: 25px;
     color: white;      
-  }
+}
 
-  header {
+header {
     background: #DCDCDC;
     padding-bottom: 0.2cm;
-  }
+}
   
-  blockquote {
+blockquote {
     background: white;
     font-family: monospace;
     font-size: 120%;
     text-align: left;
-  }
+}
